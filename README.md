@@ -8,3 +8,5 @@
 输出结果在 outPic\compressed.jpg
 
 算法来自 https://cloud.tencent.com/developer/article/1113251 感谢。
+
+我也不知道为什么redme的格式会乱
