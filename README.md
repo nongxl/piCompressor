@@ -6,11 +6,11 @@
 
 首先安装依赖包
 
-pip3 install opencv-python
+    pip3 install opencv-python
 
 用法
 
-python3 piCompressor.py 【图片位置】 【压缩目标大小】
+    python3 piCompressor.py 【图片位置】 【压缩目标大小】
 
 如：
 
